@@ -1,0 +1,5 @@
+com/employee/management/demo/service/EmployeeServiceTest.class
+com/employee/management/demo/DemoApplicationTests.class
+com/employee/management/demo/controller/EmployeeControllerTest.class
+com/employee/management/demo/mapper/EmployeeMapperTest.class
+com/employee/management/demo/it/EmployeeControllerIT.class

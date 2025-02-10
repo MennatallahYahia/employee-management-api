@@ -1,0 +1,11 @@
+/Users/mennatallahyahia/EmployeeManagementApi/src/main/java/com/employee/management/demo/DemoApplication.java
+/Users/mennatallahyahia/EmployeeManagementApi/src/main/java/com/employee/management/demo/annotation/ValidEmail.java
+/Users/mennatallahyahia/EmployeeManagementApi/src/main/java/com/employee/management/demo/controller/EmployeeController.java
+/Users/mennatallahyahia/EmployeeManagementApi/src/main/java/com/employee/management/demo/domain/Employee.java
+/Users/mennatallahyahia/EmployeeManagementApi/src/main/java/com/employee/management/demo/dto/EmployeeDto.java
+/Users/mennatallahyahia/EmployeeManagementApi/src/main/java/com/employee/management/demo/exception/GlobalExceptionHandler.java
+/Users/mennatallahyahia/EmployeeManagementApi/src/main/java/com/employee/management/demo/mapper/EmployeeMapper.java
+/Users/mennatallahyahia/EmployeeManagementApi/src/main/java/com/employee/management/demo/repository/EmployeeRepository.java
+/Users/mennatallahyahia/EmployeeManagementApi/src/main/java/com/employee/management/demo/service/EmailValidationService.java
+/Users/mennatallahyahia/EmployeeManagementApi/src/main/java/com/employee/management/demo/service/EmployeeService.java
+/Users/mennatallahyahia/EmployeeManagementApi/src/main/java/com/employee/management/demo/validation/EmailValidator.java
